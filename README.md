@@ -3,6 +3,7 @@ BlossomCart: Your Online Flower Emporium
 Welcome to BlossomCart, your one-stop destination for all things floral! Our website, built using a harmonious blend of HTML, CSS, and JavaScript, brings the enchantment of flowers to your fingertips.
 
 Why BlossomCart?
+
 🌼 Vibrant Selection: Immerse yourself in a diverse array of hand-picked flowers from around the world. From classic roses to exotic orchids, we have a bouquet for every occasion.
 
 🎨 Elegant Designs: Our skilled florists double as artists, meticulously arranging each bouquet to be a visual masterpiece. Witness the harmony of colors and textures come to life in every creation.
